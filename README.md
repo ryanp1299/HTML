@@ -1,1 +1,1 @@
-# HTML<img width="1413" alt="MyHTML" src="https://user-images.githubusercontent.com/108247369/177013120-2572bd4d-f090-43af-a8da-3d123b47109b.png">
+I used <h1> for my first heading. I used <h2> for my second heading. I used <p> to indicate my first paragraph. To close out the code, I used a / within the <...>. 
